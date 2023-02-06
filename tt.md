@@ -3,3 +3,4 @@ monday
 tue
 wed
 thurs
+fri
